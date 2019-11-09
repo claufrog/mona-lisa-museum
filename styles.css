@@ -4,6 +4,10 @@ body {
 .banner {
     background: #000000;
     color: #FFFFFF;
+    height: 20px;
+    text-align: center;
+    padding: 5px;
+    font-family: "Roboto";
 }
 p {
     /* color: aquamarine; */
