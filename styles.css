@@ -1,5 +1,13 @@
+body {
+    margin: 0;
+}
+.banner {
+    background: #000000;
+    color: #FFFFFF;
+}
 p {
-    color: aquamarine;
-    background: blue;
-    border: burlywood;
+    /* color: aquamarine; */
+    /* background: blue; */
+    /* border: burlywood; */
+    margin: 0;
 }
